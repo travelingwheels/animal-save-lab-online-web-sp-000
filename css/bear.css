@@ -9,5 +9,9 @@ html {
 }
 
 /* Write your solution here */
-
+@media only screen (min-width: 1196px) {
+  p {
+    color: green;
+  }
+}
 
