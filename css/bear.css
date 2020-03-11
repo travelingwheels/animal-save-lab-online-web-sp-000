@@ -9,9 +9,7 @@ html {
 }
 
 /* Write your solution here */
-  p {
-  @media only screen (min-width: 1196px) {
-  color: green;
-  }
+@media only screen and (min-width: 1196px) {
+  #bear { left: 800px; }
 }
 
