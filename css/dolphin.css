@@ -19,7 +19,7 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (min-width: 992px) and (max-width: 1136px) {
+@media only screen and (min-width: 642px) and (max-width: 1090px) {
   #dolphin {
     top: 0;
     right: 0;
